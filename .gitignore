@@ -1,5 +1,7 @@
-# Ignore node_modules directory
-node_modules/
+.idea
+.vscode
+.env
+.test.env
 
-#Ignore dist directory
-dist/
+node_modules
+package-lock.json
